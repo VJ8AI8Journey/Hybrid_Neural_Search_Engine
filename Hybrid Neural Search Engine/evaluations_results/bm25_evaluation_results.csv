@@ -1,0 +1,9 @@
+Topic,Query,P@5,P@10,F1@5,F1@10,nDCG@5,nDCG@10,MAP,Latency,GT Size
+politics,implications of voter suppression on democratic representation,1.000,1.000,0.095,0.182,1.000,1.000,1.000,94.950s,65202
+sports,mental health challenges facing professional athletes,1.000,1.000,0.095,0.182,0.429,0.429,1.000,93.332s,10105
+finance,long-term economic impacts of quantitative easing policies,1.000,0.900,0.095,0.164,1.000,0.852,0.964,86.729s,47263
+technology,ethical concerns surrounding facial recognition surveillance,1.000,1.000,0.095,0.182,0.925,0.912,1.000,89.849s,71138
+climate,relationship between extreme weather events and climate change,1.000,1.000,0.095,0.182,1.000,0.955,1.000,96.195s,105499
+healthcare,disparities in medical treatment across socioeconomic groups,1.000,1.000,0.095,0.182,0.925,0.867,0.996,84.502s,31568
+education,effectiveness of remote learning versus traditional classroom instruction,1.000,1.000,0.095,0.182,1.000,0.922,1.000,95.990s,15170
+international,diplomatic consequences of trade sanctions on global relations,0.800,0.900,0.076,0.164,0.366,0.465,0.951,93.319s,259461
